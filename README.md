@@ -14,17 +14,17 @@ Machine Learning for Algorithm class
 ## Model 2 : 5 Layers
 1. Success
 
-![주석 2020-06-01 182408](https://user-images.githubusercontent.com/16448806/83395377-20e01600-a435-11ea-999c-5c294ce144b0.png)
+![주석 2020-06-01 182335](https://user-images.githubusercontent.com/16448806/83395382-22114300-a435-11ea-887b-3ce3dd5ea511.png)
 
 2. Failure
 
-![주석 2020-06-01 182335](https://user-images.githubusercontent.com/16448806/83395382-22114300-a435-11ea-887b-3ce3dd5ea511.png)
+![주석 2020-06-01 182408](https://user-images.githubusercontent.com/16448806/83395377-20e01600-a435-11ea-999c-5c294ce144b0.png)
 
 ## Model 3 : 7 Layers
 1. Success
 
-![주석 2020-06-01 182345](https://user-images.githubusercontent.com/16448806/83395383-22114300-a435-11ea-8aa3-971a51bffb92.png)
+![주석 2020-06-01 182358](https://user-images.githubusercontent.com/16448806/83395384-22a9d980-a435-11ea-9065-7f63c8f4a01f.png)
 
 2. Failure
 
-![주석 2020-06-01 182358](https://user-images.githubusercontent.com/16448806/83395384-22a9d980-a435-11ea-9065-7f63c8f4a01f.png)
+![주석 2020-06-01 182345](https://user-images.githubusercontent.com/16448806/83395383-22114300-a435-11ea-8aa3-971a51bffb92.png)
