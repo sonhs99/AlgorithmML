@@ -18,7 +18,7 @@ Machine Learning for Algorithm class
 
 2. Failure
 
-![주석 2020-06-01 182408](https://user-images.githubusercontent.com/16448806/83395377-20e01600-a435-11ea-999c-5c294ce144b0.png)
+![주석 2020-06-01 182345](https://user-images.githubusercontent.com/16448806/83395383-22114300-a435-11ea-8aa3-971a51bffb92.png)
 
 ## Model 3 : 7 Layers
 1. Success
@@ -27,4 +27,4 @@ Machine Learning for Algorithm class
 
 2. Failure
 
-![주석 2020-06-01 182345](https://user-images.githubusercontent.com/16448806/83395383-22114300-a435-11ea-8aa3-971a51bffb92.png)
+![주석 2020-06-01 182408](https://user-images.githubusercontent.com/16448806/83395377-20e01600-a435-11ea-999c-5c294ce144b0.png)
